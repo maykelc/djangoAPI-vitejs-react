@@ -1,0 +1,22 @@
+para iniciar la api
+primero
+dentro de la carpeta django-crud-react ejecutar la siguietne linea
+
+py manage.py runserver
+
+
+y luego en la carpeta django-crud-react\cliente ejecutar la siguiente linea
+
+npm run dev
+
+
+
+asi se utiliza django rest framework(como api para consumir)
+
+y vite.js para consumir la api
+
+
+
+
+documentacion de la api
+http://localhost:8000/tasks/doc/
